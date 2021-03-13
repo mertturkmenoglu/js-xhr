@@ -1,0 +1,29 @@
+body {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+button {
+	background-color: #ee5b06;
+	/* Green */
+	border: #ee5b06;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+button:hover,
+button:active {
+	background-color: #fc8b4a;
+	/* Green */
+	border: #ee5b06;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	cursor: pointer;
+}
